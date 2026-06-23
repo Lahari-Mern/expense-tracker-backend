@@ -25,5 +25,3 @@ It performs full CRUD operations (Create, Read, Update, Delete).
 - Postman (for testing)
 
 ---
-
-## 📂 Project Structure
